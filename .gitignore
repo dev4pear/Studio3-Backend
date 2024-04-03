@@ -1,0 +1,11 @@
+node_modules
+*.pyc
+*.pyo
+venv
+__pycache__/
+.env
+.serverless
+tmp_download/
+tmp_upload/
+tmp_creds/
+tmp/
